@@ -1,0 +1,2 @@
+# slidify
+install slidify
